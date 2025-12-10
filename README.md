@@ -59,5 +59,5 @@ Deploy as a RAG chatbot API for knowledge retrieval.
 
 ## Author
 
-Utkarsh Arya
-Bachelors in Mathematics and Computing, IIT Patna
+Shanu Kumar
+Computer Science and Engineering, IIT Patna
